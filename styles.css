@@ -12,6 +12,7 @@ body{
     align-items: center;
     background: url(bg-image.jpg);
     background-size: cover;
+    background-color: #EE7214;
 }
 
 .container{
